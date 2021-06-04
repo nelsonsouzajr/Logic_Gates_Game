@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302755851314",
+    "project_id": "logic-gates-game",
+    "storage_bucket": "logic-gates-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302755851314:android:24f2f617eae710001f202b",
+        "android_client_info": {
+          "package_name": "br.com.dostoi.logicgatesgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302755851314-u99p9reubrdh9viapdubjkcdlcrpc6q0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.dostoi.logicgatesgame",
+            "certificate_hash": "968e3c9ff10e0135e66591ad451490e5c6162fbf"
+          }
+        },
+        {
+          "client_id": "302755851314-99fibaj888u96g3o1ob42ci31qhj79j3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIHdeMW4iL8zEnV_oBI9oWy7RPpj8yqmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302755851314-99fibaj888u96g3o1ob42ci31qhj79j3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
